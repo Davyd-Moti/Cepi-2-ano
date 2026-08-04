@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+    font-size: 100px;
+    
+}
+h2 {
+    text-align: center;
+}
+
+body {
+    background-color: mediumaquamarine;
+}
+img {
+  position: relative;
+  left: 800px;
+}
